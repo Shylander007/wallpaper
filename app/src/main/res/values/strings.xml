@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">wallpaper app</string>
+    <string name="iphone">Iphone</string>
+    <string name="samsung">Samsung</string>
+    <string name="nothing">Nothing</string>
+    <string name="oneplus">OnePlus</string>
+    <string name="choose">Choose Model</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
